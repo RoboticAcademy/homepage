@@ -735,13 +735,16 @@ a {
   color: #ffffff;
 }
 .cid-tcABmYT3oh {
-  padding-top: 6rem;
+  padding-top: 1rem;
   padding-bottom: 4rem;
   background-color: #000000;
 }
 .cid-tcABmYT3oh img,
 .cid-tcABmYT3oh .item-img {
   width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
 }
 .cid-tcABmYT3oh .item:focus,
 .cid-tcABmYT3oh span:focus {
